@@ -32,7 +32,7 @@ export const siteConfig: SiteConfig = {
 	favicon: [
 		// Leave this array empty to use the default favicon
 		{
-		src: 'http://free.picui.cn/free/2025/09/29/68da65e3e07fb.png',    // Path of the favicon, relative to the /public directory
+		src: 'http://n1.img.111pan.cn/api/v4/slave/file/content/0/ZGF0YS91cGxvYWRzLzE0L2M3MWU3ZjJjLTJkOGUtNGRkNi04OGZhLTZkMGIyMWIzZmNkZF9ibG9nLnBuZw==/0/blog.png?sign=xWijnCd9J9SNtUadG_OjD_0TJyTk3ZR7GCBKH98VIQw%3D%3A1759574603',    // Path of the favicon, relative to the /public directory
 		theme: 'dark',              // (Optional) Either 'light' or 'dark', set only if you have different favicons for light and dark mode
 		sizes: '720x720',              // (Optional) Size of the favicon, set only if you have favicons of different sizes
 		}
@@ -53,7 +53,7 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "http://free.picui.cn/free/2025/09/29/68da65e409178.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+	avatar: "http://n1.img.111pan.cn/api/v4/slave/file/content/0/ZGF0YS91cGxvYWRzLzE0L2M3MWU3ZjJjLTJkOGUtNGRkNi04OGZhLTZkMGIyMWIzZmNkZF9ibG9nLnBuZw==/0/blog.png?sign=xWijnCd9J9SNtUadG_OjD_0TJyTk3ZR7GCBKH98VIQw%3D%3A1759574603", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "iAmKevinTOP",
 	bio: "自律和不自律，都会吃苦，不同的是，自律的苦会让人生越来越甜。",
 	links: [
