@@ -53,9 +53,9 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "assets/images/demo-avatar.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-	name: "Lorem Ipsum",
-	bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+	avatar: "http://free.picui.cn/free/2025/09/29/68da65e409178.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+	name: "iAmKevinTOP",
+	bio: "自律和不自律，都会吃苦，不同的是，自律的苦会让人生越来越甜。",
 	links: [
 		{
 			name: "GitHub",
@@ -71,7 +71,7 @@ export const profileConfig: ProfileConfig = {
       		name: 'Email',
       		icon: 'fa6-solid:envelope',
       		url: 'mailto:imknt@outlook.com',
-    		},
+    	},
 	],
 };
 
