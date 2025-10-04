@@ -53,6 +53,7 @@ export default defineConfig({
 				"fa6-brands": ["*"],
 				"fa6-regular": ["*"],
 				"fa6-solid": ["*"],
+				"simple-icons": ["*"], // 仅新增这一行，添加simple-icons图标集
 			},
 		}),
 		expressiveCode({
