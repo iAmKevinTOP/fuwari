@@ -31,10 +31,10 @@
 - 用途：网站托管、部署服务、CDN 服务
 - 隐私政策：[Netlify 隐私政策](https://www.netlify.com/privacy/)
 
-**111 Cloudimg**
+**Picui**
 - 可能收集的信息：请求的页面
 - 用途：网站的图床服务
-- 图床推广：[111 Cloudimg链接直达](https://img.111pan.cn/)
+- 图床推广：[Picui 隐私政策](https://picui.cn/page/privacy)
 
 ***小飞机网盘**
 - 可能收集的信息：IP 地址、访问时间
@@ -68,7 +68,7 @@
 ## 数据安全
 
 虽然我们不直接收集您的个人信息，但我们：
-- 使用 HTTPS 加密传输
+- 使用 HTTPS 加密传输(Picui图床除外)
 - 选择信誉良好的第三方服务提供商
 - 定期审查第三方服务的隐私政策
 
