@@ -53,7 +53,7 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "http://n1.img.111pan.cn/api/v4/slave/file/content/0/ZGF0YS91cGxvYWRzLzE0L2M3MWU3ZjJjLTJkOGUtNGRkNi04OGZhLTZkMGIyMWIzZmNkZF9ibG9nLnBuZw==/0/blog.png?sign=xWijnCd9J9SNtUadG_OjD_0TJyTk3ZR7GCBKH98VIQw%3D%3A1759574603", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+	avatar: "http://img.111pan.cn/f/n9OUP/blog.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "iAmKevinTOP",
 	bio: "自律和不自律，都会吃苦，不同的是，自律的苦会让人生越来越甜。",
 	links: [
